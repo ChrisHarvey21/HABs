@@ -1,5 +1,5 @@
-# The overal goal of this code is to be able to input pricipaiton, temperature, and date and 
-determine the probability and severity of an algal bloom occuring
+# HABs data Project 
+determine the likelihood and severity of an algal bloom occuring based on precipitation and temperature information
 
 For the first data set:
 -Data from NYSDEC website at url "https://nysdec.maps.arcgis.com/apps/webappviewer/index.html?id=692b72ae03f14508a0de97488e142ae1"
