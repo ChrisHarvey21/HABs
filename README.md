@@ -1,7 +1,8 @@
-# HABs data Project 
+# HABs Data Project 
 ### Determine the likelihood and severity of an algal bloom occuring based on precipitation and temperature information
 
-For the first data set:
+## Data Processing
+### For the first data set:
 
 -Data from NYSDEC website at url "https://nysdec.maps.arcgis.com/apps/webappviewer/index.html?id=692b72ae03f14508a0de97488e142ae1"
 
@@ -12,7 +13,7 @@ For the first data set:
 -Finally click options and export to CSV
 
 
-For the second data set:
+### For the second data set:
 
 -The site used for data gathering is "http://climod2.nrcc.cornell.edu/"
 
@@ -27,7 +28,7 @@ For the second data set:
 -Click Go
 
 
-The next section organizes, merges, and filters the data.  
+### The next section organizes, merges, and filters the data.  
 
   The end result is a pandas dataframe containing all the instances of algal blooms
   and the correspodning precipaiton and temperature data.
