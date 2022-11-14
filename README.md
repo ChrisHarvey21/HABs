@@ -1,5 +1,5 @@
 # HABs data Project 
-determine the likelihood and severity of an algal bloom occuring based on precipitation and temperature information
+#Determine the likelihood and severity of an algal bloom occuring based on precipitation and temperature information
 
 For the first data set:
 
