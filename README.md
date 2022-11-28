@@ -58,3 +58,22 @@
 -The next code I repeated the random forest regression with the known set seed that would produce the minimum RMSE.
 
 -Lastly I calculated the absoulte errors and ensured that the average error between the predictions and actuals in the dataset was good compared to the average severity of algal bloom.
+
+
+
+
+## Figures and Visualization
+
+### Decision Tree
+-The first part of this code is the creation of a decision tree that visually displays the model used for Random Forest Regression.
+
+-The package "tree" was used from "sklearn"
+
+### Eight Regression Plots
+-The next eight plots show the relationship between algal severity (no bloom, suspicious, confirmed, and confirmed with toxins). However, the eight plots are divided into two groups
+
+-The first group is four of the plots with no bloom values included.
+
+-The next group is four of the plots with no bloom values removed.
+
+-This is necessary to detemrine the impact that the no bloom values have on the regression plots.  We can see that it has a signifigant impact and changes the trendline/confidence intervals of each plot.
